@@ -46,6 +46,7 @@ def update_quality(items)
   end
 end
 
+
 # DO NOT CHANGE THINGS BELOW -----------------------------------------
 
 Item = Struct.new(:name, :sell_in, :quality)
